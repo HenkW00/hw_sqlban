@@ -2,7 +2,7 @@ fx_version 'adamant'
 game 'gta5'
 
 author 'HenkW'
-version '1.0.1'
+version '1.0.2'
 
 server_scripts {
 	'@async/async.lua',

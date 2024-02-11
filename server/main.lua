@@ -14,7 +14,7 @@ CreateThread(function()
         if BanListLoad == false then
 			loadBanList()
 			if BanList ~= {} then
-				print("^0[^3SQL BAN^0] ^5Created by HW Development.^0")
+				print("^0[^3SQL BAN^0] ^5Gotta catch them all!^0")
 				print(Text.banlistloaded)
 				BanListLoad = true
 			else

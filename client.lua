@@ -14,3 +14,5 @@ end)
 --TriggerServerEvent("hw_sqlban:ICheat")
 --TriggerServerEvent("hw_sqlban:ICheat", "Auto-Cheat Custom Reason")
 
+
+
